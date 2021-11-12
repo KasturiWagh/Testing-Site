@@ -16,8 +16,8 @@ h1{
 #FirstParagraph {
 	Text-align: center;
 }
-#ButtonList {
+.actions {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center !important;
 }
